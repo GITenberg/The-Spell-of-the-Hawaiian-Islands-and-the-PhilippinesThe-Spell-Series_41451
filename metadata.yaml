@@ -1,0 +1,28 @@
+_repo: The-Spell-of-the-Hawaiian-Islands-and-the-PhilippinesThe-Spell-Series_41451
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Isabel
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '40775'
+    url: http://www.gutenberg.org/2009/agents/40775
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Spell Series
+subjects:
+- !lcsh 'Philippines'
+- !lcsh 'Hawaii'
+- !lcc 'DU'
+title: The Spell of the Hawaiian Islands and the Philippines
+url: http://www.gutenberg.org/ebooks/41451
