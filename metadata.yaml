@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40775'
     url: http://www.gutenberg.org/2009/agents/40775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41451#The-Spell-of-the-Hawaiian-Islands-and-the-PhilippinesThe-Spell-Series
 gutenberg_issued: '2012-11-23'
 gutenberg_type: Text
 identifiers:
